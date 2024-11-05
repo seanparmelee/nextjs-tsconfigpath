@@ -1,4 +1,4 @@
-/** Add your relevant code here for the issue to reproduce */
+import { Hello } from "@/components/Hello";
 export default function Home() {
-  return null;
+  return <Hello />;
 }
